@@ -1,5 +1,0 @@
-{  
-  "exec-opts": ["native.cgroupdriver=systemd"],
-  "registry-mirrors": ["https://q2hy3fzi.mirror.aliyuncs.com"], 
-  "graph": "/tol/docker-data" 
-}
